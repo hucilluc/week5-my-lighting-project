@@ -1,0 +1,683 @@
+{
+	"asset": {
+		"generator": "Tilt Brush 23.2.28f36f08b",
+		"version": "1.1",
+		"copyright": "Unknown."
+	},
+	"buffers": {
+		"buffer_sketch": {
+			"byteLength": 954564,
+			"type": "arraybuffer",
+			"uri": "sketch.bin"
+		}
+	},
+	"accessors": {
+		"accessor_position_6RTxFfhkDpN_0_0_i3": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 0,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 15418,
+			"max": [ 4.79009295, 0.459932715, 4.83997107 ],
+			"min": [ -4.99008036, -4.82007456, -4.98997736 ],
+			"type": "VEC3"
+		},
+		"accessor_normal_6RTxFfhkDpN_0_0_i3": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 185016,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 15418,
+			"type": "VEC3"
+		},
+		"accessor_color_6RTxFfhkDpN_0_0_i3": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 0,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 15418,
+			"type": "VEC4"
+		},
+		"accessor_indices_0_6RTxFfhkDpN_0_0_i3": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 0,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 23736,
+			"max": [ 15417 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		"accessor_position_6RTxFfhkDpN_1_0_i4": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 370032,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 984,
+			"max": [ -0.729795754, 0.106671594, 4.08823729 ],
+			"min": [ -4.22831106, -2.94793701, -4.86996269 ],
+			"type": "VEC3"
+		},
+		"accessor_normal_6RTxFfhkDpN_1_0_i4": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 381840,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 984,
+			"type": "VEC3"
+		},
+		"accessor_color_6RTxFfhkDpN_1_0_i4": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 246688,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 984,
+			"type": "VEC4"
+		},
+		"accessor_indices_0_6RTxFfhkDpN_1_0_i4": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 47472,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 1452,
+			"max": [ 983 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		"accessor_position_6RTxFfhkDpN_2_0_i5": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 393648,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 72,
+			"max": [ -3.87007976, -2.57002831, 4.32997179 ],
+			"min": [ -4.45008039, -3.15002871, 3.74997115 ],
+			"type": "VEC3"
+		},
+		"accessor_normal_6RTxFfhkDpN_2_0_i5": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 394512,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 72,
+			"type": "VEC3"
+		},
+		"accessor_color_6RTxFfhkDpN_2_0_i5": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 262432,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 72,
+			"type": "VEC4"
+		},
+		"accessor_indices_0_6RTxFfhkDpN_2_0_i5": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 50376,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 132,
+			"max": [ 71 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		},
+		"accessor_position_6RTxFfhkDpN_3_0_i6": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 395376,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 5684,
+			"max": [ 3.14994907, 0.459947199, 4.75002337 ],
+			"min": [ -4.98007965, -4.73002958, -4.9500289 ],
+			"type": "VEC3"
+		},
+		"accessor_normal_6RTxFfhkDpN_3_0_i6": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 463584,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 5684,
+			"type": "VEC3"
+		},
+		"accessor_color_6RTxFfhkDpN_3_0_i6": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 263584,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 5684,
+			"type": "VEC4"
+		},
+		"accessor_indices_0_6RTxFfhkDpN_3_0_i6": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 50640,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 8802,
+			"max": [ 5683 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		}
+	},
+	"bufferViews": {
+		"ushortBufferView": {
+			"buffer": "buffer_sketch",
+			"byteLength": 68244,
+			"byteOffset": 0,
+			"target": 34963
+		},
+		"vec3BufferView": {
+			"buffer": "buffer_sketch",
+			"byteLength": 531792,
+			"byteOffset": 68244,
+			"target": 34962
+		},
+		"vec4BufferView": {
+			"buffer": "buffer_sketch",
+			"byteLength": 354528,
+			"byteOffset": 600036,
+			"target": 34962
+		}
+	},
+	"meshes": {
+		"mesh_6RTxFfhkDpN_0_0_i3": {
+			"name": "mesh_6RTxFfhkDpN_0_0_i3",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_6RTxFfhkDpN_0_0_i3",
+						"NORMAL": "accessor_normal_6RTxFfhkDpN_0_0_i3",
+						"COLOR": "accessor_color_6RTxFfhkDpN_0_0_i3"
+					},
+					"indices": "accessor_indices_0_6RTxFfhkDpN_0_0_i3",
+					"material": "material_0e87b49c-6546-3a34-3a44-8a556d7d6c3e",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_6RTxFfhkDpN_1_0_i4": {
+			"name": "mesh_6RTxFfhkDpN_1_0_i4",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_6RTxFfhkDpN_1_0_i4",
+						"NORMAL": "accessor_normal_6RTxFfhkDpN_1_0_i4",
+						"COLOR": "accessor_color_6RTxFfhkDpN_1_0_i4"
+					},
+					"indices": "accessor_indices_0_6RTxFfhkDpN_1_0_i4",
+					"material": "material_3d813d82-5839-4450-8ddc-8e889ecd96c7",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_6RTxFfhkDpN_2_0_i5": {
+			"name": "mesh_6RTxFfhkDpN_2_0_i5",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_6RTxFfhkDpN_2_0_i5",
+						"NORMAL": "accessor_normal_6RTxFfhkDpN_2_0_i5",
+						"COLOR": "accessor_color_6RTxFfhkDpN_2_0_i5"
+					},
+					"indices": "accessor_indices_0_6RTxFfhkDpN_2_0_i5",
+					"material": "material_232998f8-d357-47a2-993a-53415df9be10",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_6RTxFfhkDpN_3_0_i6": {
+			"name": "mesh_6RTxFfhkDpN_3_0_i6",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_6RTxFfhkDpN_3_0_i6",
+						"NORMAL": "accessor_normal_6RTxFfhkDpN_3_0_i6",
+						"COLOR": "accessor_color_6RTxFfhkDpN_3_0_i6"
+					},
+					"indices": "accessor_indices_0_6RTxFfhkDpN_3_0_i6",
+					"material": "material_0e87b49c-6546-3a34-3a44-8a556d7d6c3e",
+					"mode": 4
+				}
+			]
+		}
+	},
+	"shaders": {
+		"vertex_0e87b49c-6546-3a34-3a44-8a556d7d6c3e": {
+			"type": 35633,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/BlocksBasic-0e87b49c-6546-3a34-3a44-8a556d7d6c3e/BlocksBasic-0e87b49c-6546-3a34-3a44-8a556d7d6c3e-v10.0-vertex.glsl"
+		},
+		"fragment_0e87b49c-6546-3a34-3a44-8a556d7d6c3e": {
+			"type": 35632,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/BlocksBasic-0e87b49c-6546-3a34-3a44-8a556d7d6c3e/BlocksBasic-0e87b49c-6546-3a34-3a44-8a556d7d6c3e-v10.0-fragment.glsl"
+		},
+		"vertex_3d813d82-5839-4450-8ddc-8e889ecd96c7": {
+			"type": 35633,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/BlocksGlass-3d813d82-5839-4450-8ddc-8e889ecd96c7/BlocksGlass-3d813d82-5839-4450-8ddc-8e889ecd96c7-v10.0-vertex.glsl"
+		},
+		"fragment_3d813d82-5839-4450-8ddc-8e889ecd96c7": {
+			"type": 35632,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/BlocksGlass-3d813d82-5839-4450-8ddc-8e889ecd96c7/BlocksGlass-3d813d82-5839-4450-8ddc-8e889ecd96c7-v10.0-fragment.glsl"
+		},
+		"vertex_232998f8-d357-47a2-993a-53415df9be10": {
+			"type": 35633,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/BlocksGem-232998f8-d357-47a2-993a-53415df9be10/BlocksGem-232998f8-d357-47a2-993a-53415df9be10-v10.0-vertex.glsl"
+		},
+		"fragment_232998f8-d357-47a2-993a-53415df9be10": {
+			"type": 35632,
+			"uri": "https://www.tiltbrush.com/shaders/brushes/BlocksGem-232998f8-d357-47a2-993a-53415df9be10/BlocksGem-232998f8-d357-47a2-993a-53415df9be10-v10.0-fragment.glsl"
+		}
+	},
+	"programs": {
+		"program_0e87b49c-6546-3a34-3a44-8a556d7d6c3e": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"
+			],
+			"vertexShader": "vertex_0e87b49c-6546-3a34-3a44-8a556d7d6c3e",
+			"fragmentShader": "fragment_0e87b49c-6546-3a34-3a44-8a556d7d6c3e"
+		},
+		"program_3d813d82-5839-4450-8ddc-8e889ecd96c7": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"
+			],
+			"vertexShader": "vertex_3d813d82-5839-4450-8ddc-8e889ecd96c7",
+			"fragmentShader": "fragment_3d813d82-5839-4450-8ddc-8e889ecd96c7"
+		},
+		"program_232998f8-d357-47a2-993a-53415df9be10": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"
+			],
+			"vertexShader": "vertex_232998f8-d357-47a2-993a-53415df9be10",
+			"fragmentShader": "fragment_232998f8-d357-47a2-993a-53415df9be10"
+		}
+	},
+	"techniques": {
+		"technique_0e87b49c-6546-3a34-3a44-8a556d7d6c3e": {
+			"program": "program_0e87b49c-6546-3a34-3a44-8a556d7d6c3e",
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"SceneLight_0_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_0_i1"
+				},
+				"SceneLight_0_color": {
+					"type": 35666,
+					"node": "node_SceneLight_0_i1"
+				},
+				"SceneLight_1_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_1_i2"
+				},
+				"SceneLight_1_color": {
+					"type": 35666,
+					"node": "node_SceneLight_1_i2"
+				},
+				"ambient_light_color": {
+					"type": 35666
+				},
+				"Shininess": {
+					"type": 5126
+				},
+				"Color": {
+					"type": 35666
+				},
+				"SpecColor": {
+					"type": 35666
+				}
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_SceneLight_0_matrix": "SceneLight_0_matrix",
+				"u_SceneLight_0_color": "SceneLight_0_color",
+				"u_SceneLight_1_matrix": "SceneLight_1_matrix",
+				"u_SceneLight_1_color": "SceneLight_1_color",
+				"u_ambient_light_color": "ambient_light_color",
+				"u_Shininess": "Shininess",
+				"u_Color": "Color",
+				"u_SpecColor": "SpecColor"
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884
+				],
+				"functions": {
+					"depthMask": [true]
+				}
+			}
+		},
+		"technique_3d813d82-5839-4450-8ddc-8e889ecd96c7": {
+			"program": "program_3d813d82-5839-4450-8ddc-8e889ecd96c7",
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"SceneLight_0_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_0_i1"
+				},
+				"SceneLight_0_color": {
+					"type": 35666,
+					"node": "node_SceneLight_0_i1"
+				},
+				"SceneLight_1_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_1_i2"
+				},
+				"SceneLight_1_color": {
+					"type": 35666,
+					"node": "node_SceneLight_1_i2"
+				},
+				"ambient_light_color": {
+					"type": 35666
+				},
+				"Shininess": {
+					"type": 5126
+				},
+				"RimIntensity": {
+					"type": 5126
+				},
+				"RimPower": {
+					"type": 5126
+				},
+				"Color": {
+					"type": 35666
+				}
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_SceneLight_0_matrix": "SceneLight_0_matrix",
+				"u_SceneLight_0_color": "SceneLight_0_color",
+				"u_SceneLight_1_matrix": "SceneLight_1_matrix",
+				"u_SceneLight_1_color": "SceneLight_1_color",
+				"u_ambient_light_color": "ambient_light_color",
+				"u_Shininess": "Shininess",
+				"u_RimIntensity": "RimIntensity",
+				"u_RimPower": "RimPower",
+				"u_Color": "Color"
+			},
+			"states": {
+				"enable": [
+					2929,
+					3042
+				],
+				"functions": {
+					"blendFuncSeparate": [1, 1, 1, 1],
+					"depthMask": [false]
+				}
+			}
+		},
+		"technique_232998f8-d357-47a2-993a-53415df9be10": {
+			"program": "program_232998f8-d357-47a2-993a-53415df9be10",
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"SceneLight_0_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_0_i1"
+				},
+				"SceneLight_0_color": {
+					"type": 35666,
+					"node": "node_SceneLight_0_i1"
+				},
+				"SceneLight_1_matrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW",
+					"node": "node_SceneLight_1_i2"
+				},
+				"SceneLight_1_color": {
+					"type": 35666,
+					"node": "node_SceneLight_1_i2"
+				},
+				"ambient_light_color": {
+					"type": 35666
+				},
+				"Shininess": {
+					"type": 5126
+				},
+				"RimIntensity": {
+					"type": 5126
+				},
+				"RimPower": {
+					"type": 5126
+				},
+				"Frequency": {
+					"type": 5126
+				},
+				"Jitter": {
+					"type": 5126
+				},
+				"Color": {
+					"type": 35666
+				}
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_SceneLight_0_matrix": "SceneLight_0_matrix",
+				"u_SceneLight_0_color": "SceneLight_0_color",
+				"u_SceneLight_1_matrix": "SceneLight_1_matrix",
+				"u_SceneLight_1_color": "SceneLight_1_color",
+				"u_ambient_light_color": "ambient_light_color",
+				"u_Shininess": "Shininess",
+				"u_RimIntensity": "RimIntensity",
+				"u_RimPower": "RimPower",
+				"u_Frequency": "Frequency",
+				"u_Jitter": "Jitter",
+				"u_Color": "Color"
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884,
+					3042
+				],
+				"functions": {
+					"blendFuncSeparate": [1, 1, 1, 1],
+					"depthMask": [false]
+				}
+			}
+		}
+	},
+	"materials": {
+		"material_0e87b49c-6546-3a34-3a44-8a556d7d6c3e": {
+			"technique": "technique_0e87b49c-6546-3a34-3a44-8a556d7d6c3e",
+			"values": {
+				"SceneLight_0_color": [1.553333, 1.406667, 1.773333, 1],
+				"SceneLight_1_color": [0.2712157, 0.2667451, 0.2190588, 1],
+				"ambient_light_color": [0.2039216, 0.2941177, 0.3686275, 1],
+				"Shininess": 0.2,
+				"Color": [1, 1, 1, 1],
+				"SpecColor": [0.1960784, 0.1960784, 0.1960784, 1]
+			},
+			"name": "material_0e87b49c-6546-3a34-3a44-8a556d7d6c3e"
+		},
+		"material_3d813d82-5839-4450-8ddc-8e889ecd96c7": {
+			"technique": "technique_3d813d82-5839-4450-8ddc-8e889ecd96c7",
+			"values": {
+				"SceneLight_0_color": [1.553333, 1.406667, 1.773333, 1],
+				"SceneLight_1_color": [0.2712157, 0.2667451, 0.2190588, 1],
+				"ambient_light_color": [0.2039216, 0.2941177, 0.3686275, 1],
+				"Shininess": 0.8,
+				"RimIntensity": 0.7,
+				"RimPower": 4,
+				"Color": [1, 1, 1, 1]
+			},
+			"name": "material_3d813d82-5839-4450-8ddc-8e889ecd96c7"
+		},
+		"material_232998f8-d357-47a2-993a-53415df9be10": {
+			"technique": "technique_232998f8-d357-47a2-993a-53415df9be10",
+			"values": {
+				"SceneLight_0_color": [1.553333, 1.406667, 1.773333, 1],
+				"SceneLight_1_color": [0.2712157, 0.2667451, 0.2190588, 1],
+				"ambient_light_color": [0.2039216, 0.2941177, 0.3686275, 1],
+				"Shininess": 0.9,
+				"RimIntensity": 0.5,
+				"RimPower": 2,
+				"Frequency": 2,
+				"Jitter": 1,
+				"Color": [1, 1, 1, 1]
+			},
+			"name": "material_232998f8-d357-47a2-993a-53415df9be10"
+		}
+	},
+	"nodes": {
+		"node_6RTxFfhkDpN_0_0_i3": {
+			"name": "node_6RTxFfhkDpN_0_0_i3",
+			"meshes": [
+				"mesh_6RTxFfhkDpN_0_0_i3"
+			],
+			"matrix": [-0.02917974, 0.001714626, 0.007786111, 0, 0.002085836, 0.03015435, 0.001176543, 0, -0.007694982, 0.001671832, -0.02920638, 0, -0.2415071, 1.11442, -0.3877129, 1]
+		},
+		"node_SceneLight_0_i1": {
+			"name": "node_SceneLight_0_i1",
+			"light": "SceneLight_0",
+			"matrix": [0.898794, 0.2191856, -0.3796406, 0, -0.4383712, 0.449397, -0.7783785, 0, -1.490116E-08, 0.8660254, 0.4999999, 0, 0, 0.07816665, 0.0220875, 1]
+		},
+		"node_SceneLight_1_i2": {
+			"name": "node_SceneLight_1_i2",
+			"light": "SceneLight_1",
+			"matrix": [0.7660446, -0.4924039, -0.4131757, 0, -0.6427875, -0.5868244, -0.4924039, 0, 2.980232E-08, 0.6427875, -0.7660447, 0, 3.874302E-09, 0.0636562, -0.06020541, 1]
+		},
+		"node_6RTxFfhkDpN_1_0_i4": {
+			"name": "node_6RTxFfhkDpN_1_0_i4",
+			"meshes": [
+				"mesh_6RTxFfhkDpN_1_0_i4"
+			],
+			"matrix": [-0.02917974, 0.001714626, 0.007786111, 0, 0.002085836, 0.03015435, 0.001176543, 0, -0.007694982, 0.001671832, -0.02920638, 0, -0.2415071, 1.11442, -0.3877129, 1]
+		},
+		"node_6RTxFfhkDpN_2_0_i5": {
+			"name": "node_6RTxFfhkDpN_2_0_i5",
+			"meshes": [
+				"mesh_6RTxFfhkDpN_2_0_i5"
+			],
+			"matrix": [-0.02917974, 0.001714626, 0.007786111, 0, 0.002085836, 0.03015435, 0.001176543, 0, -0.007694982, 0.001671832, -0.02920638, 0, -0.2415071, 1.11442, -0.3877129, 1]
+		},
+		"node_6RTxFfhkDpN_3_0_i6": {
+			"name": "node_6RTxFfhkDpN_3_0_i6",
+			"meshes": [
+				"mesh_6RTxFfhkDpN_3_0_i6"
+			],
+			"matrix": [-0.02917974, 0.001714626, 0.007786111, 0, 0.002085836, 0.03015435, 0.001176543, 0, -0.007694982, 0.001671832, -0.02920638, 0, -0.2415071, 1.11442, -0.3877129, 1]
+		}
+	},
+	"scene": "defaultScene",
+	"scenes": {
+		"defaultScene": {
+			"nodes": [
+				"node_6RTxFfhkDpN_0_0_i3",
+				"node_SceneLight_0_i1",
+				"node_SceneLight_1_i2",
+				"node_6RTxFfhkDpN_1_0_i4",
+				"node_6RTxFfhkDpN_2_0_i5",
+				"node_6RTxFfhkDpN_3_0_i6"
+			],
+			"extras": {
+				"TB_EnvironmentGuid": "0ca88298-e5e8-4e94-aad8-4b4f6c80ae52",
+				"TB_Environment": "Blue",
+				"TB_UseGradient": "false",
+				"TB_SkyColorA": "0.1803922, 0.2352941, 0.4117647",
+				"TB_SkyColorB": "0.3568628, 0.3921569, 0.6",
+				"TB_SkyGradientDirection": "0, 1, 0",
+				"TB_FogColor": "0.6313726, 0.7137255, 0.8941177",
+				"TB_FogDensity": "0.005",
+				"TB_SkyColorHorizon": "0.1803922, 0.2352941, 0.4117647",
+				"TB_SkyColorZenith": "0.3568628, 0.3921569, 0.6"
+			}
+		}
+	}
+}

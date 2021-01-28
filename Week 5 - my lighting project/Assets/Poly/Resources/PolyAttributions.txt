@@ -1,5 +1,47 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: Castle of cool guys
+Author: Nathan DiPietro
+URL: https://poly.google.com/view/etqqsPcUD0V
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: cube 1
+Author: Kate Henderson
+URL: https://poly.google.com/view/5YY3mMoAu-B
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dungeon Cell
+Author: Ded Hat
+URL: https://poly.google.com/view/b_G2A2TEpMb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: home sweet home
+Author: Kate Henderson
+URL: https://poly.google.com/view/1TNyPiPCpB6
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: lampshade
+Author: Matthew McCabe
+URL: https://poly.google.com/view/3P_GCDT4oUn
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Modern house
+Author: Yaël Martin
+URL: https://poly.google.com/view/6rDcQB0t9As
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: patient room
+Author: Kate Henderson
+URL: https://poly.google.com/view/6wtA8cnnYwO
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Rhino
 Author: Tom VanAntwerp
 URL: https://poly.google.com/view/9deYXdpoeTC
